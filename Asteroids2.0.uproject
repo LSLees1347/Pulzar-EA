@@ -17,11 +17,20 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
 		},
 		{
-			"Name": "SunPosition",
+			"Name": "CommonUI",
 			"Enabled": true
 		},
 		{
-			"Name": "CommonUI",
+			"Name": "Bridge",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "WebBrowserWidget",
 			"Enabled": true
 		}
 	]
