@@ -10,6 +10,8 @@ public class PulzarTarget : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
+		bUsesSteam = true;
+
 		ExtraModuleNames.AddRange( new string[] { "Pulzar" } );
 	}
 }
