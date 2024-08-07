@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ONLINESUBSYSTEMSTEAM_SteamNetDriver_generated_h
 
-#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_INCLASS \
+#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_INCLASS \
 private: \
 	static void StaticRegisterNativesUSteamNetDriver(); \
 	friend struct Z_Construct_UClass_USteamNetDriver_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(USteamNetDriver)
 
 
-#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_STANDARD_CONSTRUCTORS \
+#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USteamNetDriver(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USteamNetDriver) \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~USteamNetDriver();
 
 
-#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_17_PROLOG
-#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_GENERATED_BODY_LEGACY \
+#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_17_PROLOG
+#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_INCLASS \
-	FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_STANDARD_CONSTRUCTORS \
+	FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_INCLASS \
+	FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h_20_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ONLINESUBSYSTEMSTEAM_API UClass* StaticClass<class USteamNetDriver>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h
+#define CURRENT_FILE_ID FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetDriver_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
