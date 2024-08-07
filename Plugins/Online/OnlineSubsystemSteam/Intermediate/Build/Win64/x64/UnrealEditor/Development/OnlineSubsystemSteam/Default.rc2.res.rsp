@@ -2,7 +2,7 @@
 /D_WIN64
 /l 0x409
 /I "."
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\INCLUDE"
+/I "D:\Visual Studio\Community\VC\Tools\MSVC\14.40.33807\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
@@ -77,10 +77,10 @@
 /DNDEBUG=1
 /DUE_BUILD_DEVELOPMENT=1
 /DORIGINAL_FILE_NAME="UnrealEditor-OnlineSubsystemSteam.dll"
-/DBUILD_ICON_FILE_NAME="\"E:\\LFP\\pulzar\\GIT\\ast2.0\\Build\\Windows\\Application.ico\""
+/DBUILD_ICON_FILE_NAME="\"D:\\.dev\\Astroids2.0\\ast2.0\\Build\\Windows\\Application.ico\""
 /DPROJECT_COMPANY_NAME=LFP
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME=Pulzar
 /DPROJECT_PRODUCT_IDENTIFIER=Pulzar
-/fo "E:\LFP\pulzar\GIT\ast2.0\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
+/fo "D:\.dev\Astroids2.0\ast2.0\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

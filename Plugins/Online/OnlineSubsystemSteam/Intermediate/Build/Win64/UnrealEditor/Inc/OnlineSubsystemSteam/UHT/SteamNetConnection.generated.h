@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ONLINESUBSYSTEMSTEAM_SteamNetConnection_generated_h
 
-#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_INCLASS \
+#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesUSteamNetConnection(); \
 	friend struct Z_Construct_UClass_USteamNetConnection_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(USteamNetConnection)
 
 
-#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_STANDARD_CONSTRUCTORS \
+#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USteamNetConnection(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USteamNetConnection) \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~USteamNetConnection();
 
 
-#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_14_PROLOG
-#define FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_GENERATED_BODY_LEGACY \
+#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_14_PROLOG
+#define FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_INCLASS \
-	FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_STANDARD_CONSTRUCTORS \
+	FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_INCLASS \
+	FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ONLINESUBSYSTEMSTEAM_API UClass* StaticClass<class USteamNetConnection>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h
+#define CURRENT_FILE_ID FID__dev_Astroids2_0_ast2_0_Plugins_Online_OnlineSubsystemSteam_Source_Classes_SteamNetConnection_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
